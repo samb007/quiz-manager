@@ -1,0 +1,17 @@
+[
+    {
+        "username": "sam",
+        "password": "1",
+        "permissions": "Edit"
+    },
+    {
+        "username": "bob",
+        "password": "1",
+        "permissions": "View"
+    },
+    {
+        "username": "poppy",
+        "password": "1",
+        "permissions": "Restricted"
+    }
+]
